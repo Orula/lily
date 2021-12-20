@@ -21,7 +21,7 @@ I haven't 'optimized' my parameters, becauase i too busy with other projects but
 - beta in momentum optimizer: 0.9
 - 
 ## Results (after 2 epochs)
-<p align="">
+<p align="center">
 	<img src="results/loss2.png" width="350"/> 
         <img src="results/acc2.png"  width="350"/>
 </p>
