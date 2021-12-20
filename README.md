@@ -22,7 +22,7 @@ I haven't 'optimized' my parameters, becauase i too busy with other projects but
 - 
 ## Results (after 2 epochs)
 <p align="">
-	<img src="results/loss2.png" width="350"/> <br>
+	<img src="results/loss2.png" width="350"/> 
         <img src="results/acc2.png"  width="350"/>
 </p>
 
