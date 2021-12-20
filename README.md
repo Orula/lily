@@ -19,3 +19,13 @@ I haven't 'optimized' my parameters, becauase i too busy with other projects but
 - batch size: 1  
 - learning rate             : 0.8  
 - beta in momentum optimizer: 0.9
+- 
+## Results (after 2 epochs)
+<p align="">
+	<img src="reslts/loss2.png" width="400"/>
+  <img src="reslts/accc2.png" width="400"/>
+</p>
+
+
+## Reference 
+[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/), Great starting point
