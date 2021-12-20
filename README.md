@@ -22,8 +22,8 @@ I haven't 'optimized' my parameters, becauase i too busy with other projects but
 - 
 ## Results (after 2 epochs)
 <p align="">
-	<img src="reslts/loss2.png" width="400"/>
-  <img src="reslts/accc2.png" width="400"/>
+	<img src="results/loss2.png" width="300"/>
+        <img src="results/acc2.png"  width="300"/>
 </p>
 
 
