@@ -19,13 +19,15 @@ I haven't 'optimized' my parameters, becauase i too busy with other projects but
 - batch size: 1  
 - learning rate             : 0.8  
 - beta in momentum optimizer: 0.9
-- 
 ## Results (after 2 epochs)
 <p align="center">
 	<img src="results/loss2.png" width="350"/> 
         <img src="results/acc2.png"  width="350"/>
 </p>
 
+## P.S.
+- The code is messy filled with a lot of commeted out code, ignore these. I was busy running expirements, trying to implent RMSprop, Adam and learning how to validate neural networks
+- I code this to learn about ML and run expirments. I don't have plans to update it anytime soon, I am too busy having fun with Pytorch and looking for a GPU. Don't expect updates.
 
 ## Reference 
 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/), Great starting point
